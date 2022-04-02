@@ -20,8 +20,8 @@
 <a href="https://github.com/Juko626/yolov5_Dangerous_object_images_detection_220207" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juko626&repo=yolov5_Dangerous_object_images_detection_220207&theme=ayu-mirage"height="130" width="400" />
   
-<a href="https://github.com/Juko626/yolov5_Dangerous_object_images_detection_220207" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juko626&repo=yolov5_Dangerous_object_images_detection_220207&theme=ayu-mirage"height="130" width="400" />
+<a href="https://github.com/Juko626/Reference" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juko626&repo=Reference&theme=ayu-mirage"height="130" width="400" />
   
   
 
