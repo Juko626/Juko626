@@ -8,11 +8,11 @@
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juko626&repo=yolov5_Dangerous_object_images_detection_220207&theme=dark"height="140" width="420"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juko626&repo=yolov5_Dangerous_object_images_detection_220207&theme=dark"height="130" width="400"/>
 </a>
   
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juko626&repo=yolov5_Dangerous_object_images_detection_220207&theme=dark"height="140" width="420"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juko626&repo=yolov5_Dangerous_object_images_detection_220207&theme=dark"height="130" width="400"/>
 </a>
   
 
