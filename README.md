@@ -9,12 +9,9 @@
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juko626&repo=yolov5_Dangerous_object_images_detection_220207&theme=dark"height="130" width="400"/>
-</a>
-  
-<a href="https://github.com/anuraghazra/convoychat">
+</a><a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Juko626&repo=yolov5_Dangerous_object_images_detection_220207&theme=dark"height="130" width="400"/>
 </a>
-  
 
 
 <!--백준 프로필 기본 버젼-->
